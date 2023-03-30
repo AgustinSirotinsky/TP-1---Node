@@ -1,0 +1,20 @@
+{
+  "name": "tp-1---node",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000P\u0000-\u00001\u0000-\u0000-\u0000-\u0000N\u0000o\u0000d\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agussiro06/TP-1---Node.git"
+  },
+  "author": "agussiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agussiro06/TP-1---Node/issues"
+  },
+  "homepage": "https://github.com/agussiro06/TP-1---Node#readme"
+}
